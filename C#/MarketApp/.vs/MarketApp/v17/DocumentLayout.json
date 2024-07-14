@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E3454-6F34-44B2-BD56-D47C50FAB756}|MarketApp\\UserPanel.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\marketapp\\usercontrolpanel\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E3454-6F34-44B2-BD56-D47C50FAB756}|MarketApp\\UserPanel.csproj|solutionrelative:marketapp\\usercontrolpanel\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E3454-6F34-44B2-BD56-D47C50FAB756}|MarketApp\\UserPanel.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\marketapp\\usercontrolpanel\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E3454-6F34-44B2-BD56-D47C50FAB756}|MarketApp\\UserPanel.csproj|solutionrelative:marketapp\\usercontrolpanel\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E3454-6F34-44B2-BD56-D47C50FAB756}|MarketApp\\UserPanel.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\marketapp\\usercontrolpanel\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E3454-6F34-44B2-BD56-D47C50FAB756}|MarketApp\\UserPanel.csproj|solutionrelative:marketapp\\usercontrolpanel\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9856C9-6405-4676-BED1-713E60680321}|MarketLibrary\\MarketLibrary.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\marketlibrary\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9856C9-6405-4676-BED1-713E60680321}|MarketLibrary\\MarketLibrary.csproj|solutionrelative:marketlibrary\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E3454-6F34-44B2-BD56-D47C50FAB756}|MarketApp\\UserPanel.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\marketapp\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E3454-6F34-44B2-BD56-D47C50FAB756}|MarketApp\\UserPanel.csproj|solutionrelative:marketapp\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CD7DC8-6EA8-4037-90CD-7A0EA463C754}|AdminPanel\\AdminPanel.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\adminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CD7DC8-6EA8-4037-90CD-7A0EA463C754}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CD7DC8-6EA8-4037-90CD-7A0EA463C754}|AdminPanel\\AdminPanel.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\adminpanel\\stockcontrolpanel\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CD7DC8-6EA8-4037-90CD-7A0EA463C754}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\stockcontrolpanel\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9856C9-6405-4676-BED1-713E60680321}|MarketLibrary\\MarketLibrary.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\marketlibrary\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9856C9-6405-4676-BED1-713E60680321}|MarketLibrary\\MarketLibrary.csproj|solutionrelative:marketlibrary\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9856C9-6405-4676-BED1-713E60680321}|MarketLibrary\\MarketLibrary.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\marketlibrary\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9856C9-6405-4676-BED1-713E60680321}|MarketLibrary\\MarketLibrary.csproj|solutionrelative:marketlibrary\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CD7DC8-6EA8-4037-90CD-7A0EA463C754}|AdminPanel\\AdminPanel.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\adminpanel\\stockcontrolpanel\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CD7DC8-6EA8-4037-90CD-7A0EA463C754}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\stockcontrolpanel\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E3454-6F34-44B2-BD56-D47C50FAB756}|MarketApp\\UserPanel.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\marketapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E3454-6F34-44B2-BD56-D47C50FAB756}|MarketApp\\UserPanel.csproj|solutionrelative:marketapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9856C9-6405-4676-BED1-713E60680321}|MarketLibrary\\MarketLibrary.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\marketlibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9856C9-6405-4676-BED1-713E60680321}|MarketLibrary\\MarketLibrary.csproj|solutionrelative:marketlibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CD7DC8-6EA8-4037-90CD-7A0EA463C754}|AdminPanel\\AdminPanel.csproj|c:\\users\\ismay_ne14\\desktop\\marketapp\\adminpanel\\adminpanel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9CD7DC8-6EA8-4037-90CD-7A0EA463C754}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\adminpanel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketLibrary\\Cart.cs",
+              "RelativeDocumentMoniker": "MarketLibrary\\Cart.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketLibrary\\Cart.cs",
+              "RelativeToolTip": "MarketLibrary\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketApp\\Program.cs",
+              "RelativeDocumentMoniker": "MarketApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketApp\\Program.cs",
+              "RelativeToolTip": "MarketApp\\Program.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAAAMMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketApp\\UserControlPanel\\CartManager.cs",
+              "RelativeDocumentMoniker": "MarketApp\\UserControlPanel\\CartManager.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketApp\\UserControlPanel\\CartManager.cs",
+              "RelativeToolTip": "MarketApp\\UserControlPanel\\CartManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAC0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\AdminPanel\\Program.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Program.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\AdminPanel\\Program.cs",
+              "RelativeToolTip": "AdminPanel\\Program.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAJAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketApp\\UserControlPanel\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "MarketApp\\UserControlPanel\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketApp\\UserControlPanel\\CategoryManager.cs",
+              "RelativeToolTip": "MarketApp\\UserControlPanel\\CategoryManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketApp\\Services\\UserManager.cs",
+              "RelativeDocumentMoniker": "MarketApp\\Services\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketApp\\Services\\UserManager.cs",
+              "RelativeToolTip": "MarketApp\\Services\\UserManager.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketLibrary\\Category.cs",
+              "RelativeDocumentMoniker": "MarketLibrary\\Category.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketLibrary\\Category.cs",
+              "RelativeToolTip": "MarketLibrary\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\AdminPanel\\StockControlPanel\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\StockControlPanel\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\AdminPanel\\StockControlPanel\\CategoryManager.cs",
+              "RelativeToolTip": "AdminPanel\\StockControlPanel\\CategoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketLibrary\\Products.cs",
+              "RelativeDocumentMoniker": "MarketLibrary\\Products.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketLibrary\\Products.cs",
+              "RelativeToolTip": "MarketLibrary\\Products.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\AdminPanel\\StockControlPanel\\ProductManager.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\StockControlPanel\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\AdminPanel\\StockControlPanel\\ProductManager.cs",
+              "RelativeToolTip": "AdminPanel\\StockControlPanel\\ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketLibrary\\User.cs",
+              "RelativeDocumentMoniker": "MarketLibrary\\User.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketLibrary\\User.cs",
+              "RelativeToolTip": "MarketLibrary\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketApp\\UserControlPanel\\ProductManager.cs",
+              "RelativeDocumentMoniker": "MarketApp\\UserControlPanel\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\MarketApp\\UserControlPanel\\ProductManager.cs",
+              "RelativeToolTip": "MarketApp\\UserControlPanel\\ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:07.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminPanel.csproj",
+              "DocumentMoniker": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\AdminPanel\\AdminPanel.csproj",
+              "RelativeDocumentMoniker": "AdminPanel\\AdminPanel.csproj",
+              "ToolTip": "C:\\Users\\Ismay_ne14\\Desktop\\MarketApp\\AdminPanel\\AdminPanel.csproj",
+              "RelativeToolTip": "AdminPanel\\AdminPanel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T09:10:07.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

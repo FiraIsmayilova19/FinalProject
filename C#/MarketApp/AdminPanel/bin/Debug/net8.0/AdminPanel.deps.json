@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdminPanel/1.0.0": {
+        "dependencies": {
+          "MarketLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AdminPanel.dll": {}
+        }
+      },
+      "MarketLibrary/1.0.0": {
+        "runtime": {
+          "MarketLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdminPanel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarketLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
